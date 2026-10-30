@@ -1,0 +1,12 @@
+# Fora da publicação: nada aqui é referenciado pelo index.html publicado.
+index.antigo.html
+apresentacao-newai.html
+video-newai.mp4
+.fatos-newai.md
+assets/banner-arquitetura.png
+assets/telas/2-comparativo.png
+assets/telas/3-simulacao.png
+
+# sistema
+.DS_Store
+Thumbs.db
