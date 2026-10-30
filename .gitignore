@@ -10,3 +10,7 @@ assets/telas/3-simulacao.png
 # sistema
 .DS_Store
 Thumbs.db
+
+# vercel
+.vercel
+.env*
